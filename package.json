@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu2k24/Namaste-React.git"
+  },
+  "keywords": [
+    "react",
+    "Developmenet"
+  ],
+  "author": "Himanshu Tiwary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu2k24/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Himanshu2k24/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
